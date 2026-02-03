@@ -1,0 +1,9 @@
+{
+    "jobs": [
+        {
+            "name": "Test Backup",
+            "path": "testdata",
+            "interval": "2s"
+        }
+    ]
+}
