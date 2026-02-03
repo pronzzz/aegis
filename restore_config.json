@@ -1,0 +1,8 @@
+{
+    "restore": {
+        "priority_patterns": [
+            "*.conf",
+            "*.txt"
+        ]
+    }
+}

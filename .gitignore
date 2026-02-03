@@ -1,0 +1,16 @@
+# Binaries
+aegis
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Local Data
+.aegis/
+*.db
+*.db-journal
+*.db-wal
+
+# OS specific
+.DS_Store
+Thumbs.db
